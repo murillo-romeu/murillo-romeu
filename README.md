@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murillo-romeu&label=Profile%20views&color=0e75b6&style=flat" alt="murillo-romeu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murillo-romeu&no-frame=true&no-bg=true&theme=dracula" alt="murillo-romeu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murillo-romeu&no-frame=true&theme=dracula" alt="murillo-romeu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/murilloromeu" target="blank"><img src="https://img.shields.io/twitter/follow/murilloromeu?logo=twitter&style=for-the-badge" alt="murilloromeu" /></a> </p>
 
