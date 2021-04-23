@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Murillo Romeu
 </h1>
-<h1>
+<h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=murillo-romeu&label=Profile%20views&color=0e75b6&style=flat" alt="murillo-romeu" /> &nbsp;
   <a href="https://twitter.com/murilloromeu" target="blank"><img src="https://img.shields.io/twitter/follow/murilloromeu?logo=twitter&style=for-the-badge" alt="murilloromeu" /></a>
 </h1>
