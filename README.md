@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Murillo Romeu <img src="https://komarev.com/ghpvc/?username=murillo-romeu&label=Profile%20views&color=0e75b6&style=flat" alt="murillo-romeu" /></h1>
+<h1 align="center">
+  Hi 👋, I'm Murillo Romeu
+</h1>
+<h1>
+  <img src="https://komarev.com/ghpvc/?username=murillo-romeu&label=Profile%20views&color=0e75b6&style=flat" alt="murillo-romeu" /> &nbsp;
+  <a href="https://twitter.com/murilloromeu" target="blank"><img src="https://img.shields.io/twitter/follow/murilloromeu?logo=twitter&style=for-the-badge" alt="murilloromeu" /></a>
+</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murillo-romeu&no-frame=true&theme=dracula" alt="murillo-romeu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/murilloromeu" target="blank"><img src="https://img.shields.io/twitter/follow/murilloromeu?logo=twitter&style=for-the-badge" alt="murilloromeu" /></a> </p>
 
 - 🌱 I’m currently learning **React, React Native, NodeJS**
 
